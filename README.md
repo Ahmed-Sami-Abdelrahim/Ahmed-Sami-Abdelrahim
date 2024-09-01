@@ -7,8 +7,9 @@
 
 - **Linux**
 - **C++**
-- **Device Drivers**
 - **Yocto**
+- **Device Drivers**
+- **Bash** 
 - **Python**
 
 ---
