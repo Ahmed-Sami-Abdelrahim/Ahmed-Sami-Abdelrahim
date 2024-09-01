@@ -6,7 +6,7 @@
 
 
 - **Linux**
-- **C++**
+- **C/C++**
 - **Yocto**
 - **Device Drivers**
 - **Bash** 
